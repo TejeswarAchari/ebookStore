@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Home-container {
+    background-color: #1b1b1b;
+    padding: 20px;
+}
+
+.home-heading {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 35px;
+}
+
+.home-card {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+
+}
+
+.home-card-image {
+    height: 200px;
+    width: 130px;
+}
+
+.book-name {
+    font-family: Bree Serif;
+    font-size: 15px;
+    color: #183b56;
+}
+
+.home-card-container {
+    padding: 30px;
+}
+
+.card-sub-heading {
+    font-family: Bree Serif;
+    font-size: 12px;
+    color: #1b1b1b;
+}
+
+.writer {
+    font-family: Bree Serif;
+    font-size: 10px;
+    color: #9aa5b1;
+}
+
+.recommended {
+    font-family: Bree Serif;
+    font-size: 23px;
+    color: #ffffff;
+}
+
+.recommended-books-image {
+    height: 160px;
+    width: 120px;
+}
+
+.recommended-books-name {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 15px;
+}
+
+.recommended-books-author-name {
+    font-family: Bree Serif;
+    font-size: 12px;
+    color: #9aa5b1;
+}
+
+.recommended-books-card-text-container {
+    padding: 11px;
+}
+
+.recommended-books-container {
+    margin: 20px;
+}
+
+/* Details Card */
+.details-container {
+    background-color: #1b1b1b;
+    text-align: center;
+    padding: 20px;
+}
+
+.details-image {
+    height: 300px;
+    width: 200px;
+}
+
+.details-heading {
+    font-family: Bree Serif;
+    font-size: 28px;
+    color: white;
+}
+
+.details-author {
+    font-family: Bree Serif;
+    font-size: 12px;
+    color: #9aa5b1;
+}
+
+.details-para {
+    font-family: Bree Serif;
+    font-size: 11px;
+    color: #e4e7eb;
+}
